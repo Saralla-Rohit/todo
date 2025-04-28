@@ -22,6 +22,8 @@ A full-stack To-Do List web application built using **HTML, CSS, JavaScript, jQu
 | **Backend**   | Node.js, Express.js |
 | **Database**  | MongoDB (with Mongoose) |
 
----
 
-
+```bash
+git clone https://github.com/Saralla-Rohit/todo.git
+npm install
+npm run api
